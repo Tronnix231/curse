@@ -1,24 +1,3 @@
-{
-  "de_bank": [
-    {
-      "name": [
-        "Left Electronic",
-        "S.W.A.T"
-      ],
-      "weapon": "weapon_molotov",
-      "position": [
-        -551.65509033203,
-        -227.24008178711,
-        147.98960876465
-      ],
-      "viewangles": [
-        -15.174540519714,
-        -6.7980489730835
-      ],
-      "grenade": {
-        "run": 25
-      }
-    },
     {
       "name": [
         "Left Electronic",
